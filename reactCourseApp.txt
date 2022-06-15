@@ -1,0 +1,20 @@
+01 Getting Started
+02 Diving into the Basics COURSE GOALS APP
+03 Debugging React Native Apps
+04 Components Styling Layouts - Building Real Apps GUESS A NUMBER APP
+05 Responsive Adaptive User Interfaces and Apps
+06 Navigation with React Navigation THE MEALS APP
+07 State Management Redux
+08 Time to Practice - THE SHOP APP
+09 Handling User Input
+10 Http Requests Adding a Web Server Database
+11 User Authentication
+12 Native Device Features (Camera Maps Location SQLite ...) GREAT PLACES APP
+13 Building Apps Without Expo
+14 Publishing React Native Apps
+15 Updating to React Navigation 5
+16 Push Notifications
+17 Course Roundup Next Steps
+18 Bonus JavaScript Refresher
+19 Bonus React.js Refresher
+20 Bonus
